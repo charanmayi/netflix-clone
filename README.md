@@ -2,8 +2,6 @@
 
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
-## Preview
-[image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
 
 ## Features
 
@@ -11,6 +9,12 @@ This repository contains the code for building a Netflix-inspired home page usin
 - Interactive components: The page includes interactive elements such as buttons, dropdown menus, and hover effects.
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
+
+## Technologies Used
+HTML
+CSS
+## Screenshots
+<img width="960" alt="Screenshot 2023-12-09 170956" src="https://github.com/charanmayi/netflix-clone/assets/96588672/0a6fb775-4fbe-4513-82e0-f08d63afc215">
 
   
 ## Acknowledgements
